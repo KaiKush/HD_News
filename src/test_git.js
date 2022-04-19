@@ -1,0 +1,3 @@
+const tempFunction = () => {
+  return;
+}

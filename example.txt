@@ -1,0 +1,15 @@
+ <Image 
+                source={{uri: 'https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVjgpP.img?h=379&w=640&m=6&q=60&o=f&l=f'}}
+                style={{height: 300, width: 300}}
+            />
+            <LinearGradient 
+                colors={["#000000C3", "#00000050", "#00000000"]}
+                start={{ x: 0, y: 1 }}
+                end={{ x: 0, y: 0 }}
+                style={{height: 300, width: 300, position: 'absolute'}}
+                >
+                
+            </LinearGradient>
+
+
+            

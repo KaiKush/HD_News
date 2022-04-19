@@ -1,0 +1,19 @@
+export const FETCH_DATA_ERROR = 'FETCH_DATA_ERROR';
+export const FETCH_DATA_REQUEST = 'FETCH_DATA_REQUEST';
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_MORE_DATA_SUCCESS = 'FETCH_MORE_DATA_SUCCESS';
+export const FETCH_TOP_DATA = 'FETCH_TOP_DATA';
+export const CLEAR_DATA = 'CLEAR_DATA';
+
+export const SAVE_DATA = 'SAVE_DATA';
+export const REMOVE_DATA = 'REMOVE_DATA';
+
+
+
+
+
+
+
+
+
+
